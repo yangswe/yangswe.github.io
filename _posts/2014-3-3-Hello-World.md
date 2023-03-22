@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: 블로그 포스팅 시작
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+개인 기술공부용 블로글를 시작해보려고한다.
+그때그때 모르는것들이나 알게된것들을 끄적끄적 적어놓거나
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+업무일지처럼 사용하며 포트폴리오로 사용이 목적!
